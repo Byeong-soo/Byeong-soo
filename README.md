@@ -15,6 +15,7 @@
 
 
 🌱 <I>[resume](https://www.notion.so/bdb0795d398a44b393978fe12dab4535)</I>
+<br>
 🌱 <I>[blog](https://velog.io/@ubs4939)</I>
 
 
