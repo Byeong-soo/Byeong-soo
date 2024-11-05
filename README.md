@@ -3,8 +3,7 @@
 
 
 
-## *Software Engineer*, 꾸준히 성장하는 개발자
-
+## *Software Engineer*
 
 
 
@@ -13,10 +12,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeong-soo)](https://github.com/anuraghazra/github-readme-stats)
 
-
-🌱 <I>[resume](https://www.notion.so/bdb0795d398a44b393978fe12dab4535)</I>
-<br>
-🌱 <I>[blog](https://velog.io/@ubs4939)</I>
 
 
 
